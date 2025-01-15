@@ -1,6 +1,6 @@
 # KU Students APP
 
-![KU Students APP Logo](https://github.com/BorneLabs/KU-Students-APP/blob/main/Assets/KU%20Students%20APP%20Transparent%20logo.png)
+<img src="https://github.com/BorneLabs/KU-Students-APP/blob/main/Assets/KU%20Students%20APP%20Transparent%20logo.png" alt="KU Students APP Logo" width="50%">
 
 ## Overview
 The KU Students APP is an open-source project developed to simplify student life at Kenyatta University. This app integrates the **Portal Kusoma Platform** and a **Discussion Forum** into one user-friendly and smooth interface, making it easier for students to access essential services and engage with their peers.
@@ -13,7 +13,7 @@ The KU Students APP is an open-source project developed to simplify student life
 ## About the Project
 This app is developed using [MIT App Inventor](https://appinventor.mit.edu/) and is designed with simplicity and usability in mind. Contributions to this project are highly encouraged to enhance its functionality and impact. The project is managed by [Bornelabs](https://www.linkedin.com/company/bornelabs/), an organization dedicated to creating impactful solutions.
 
-![MIT App Inventor Screenshot](https://upload.wikimedia.org/wikipedia/commons/4/46/Appinventor_screenshot.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Appinventor_screenshot.png" alt="MIT App Inventor Screenshot" width="50%">
 
 ### Technologies Used
 The KU Students APP was developed using:
