@@ -18,10 +18,9 @@ This app is developed using [MIT App Inventor](https://appinventor.mit.edu/) and
 
 # MIT App Inventor Blocks Screenshot
 
-Here’s an image showing the MIT App Inventor blocks:
+You can view the live HTML content here:
 
-![MIT App Inventor Blocks](https://raw.githubusercontent.com/BorneLabs/KU-Students-APP/main/Assets/MIT%20App%20Inventor.png)
-
+[View MIT App Inventor Blocks](https://yourusername.github.io/your-repository/Assets/MIT%20App%20Inventor.html)
 
 
 ### **Technologies Used**
