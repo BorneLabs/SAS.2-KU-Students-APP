@@ -19,9 +19,9 @@ This app is developed using [MIT App Inventor](https://appinventor.mit.edu/) and
 
 # Download the ScreenShot Page
 
-Click the link below to download the contents of the **ScreenShot Page** folder:
+Click the link below to download the contents of the **ScreenShot Page** folder as a ZIP file:
 
-[Download ScreenShot Page](https://github.com/BorneLabs/KU-Students-APP/raw/main/Assets/ScreenShot%20Page.zip)
+[Download ScreenShot Page](https://raw.githubusercontent.com/BorneLabs/KU-Students-APP/main/Assets/Screenshot-Page.zip)
 
 
 
