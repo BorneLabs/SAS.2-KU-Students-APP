@@ -16,11 +16,13 @@ The KU Students APP is an open-source project developed to simplify student life
 ## **About the Project**
 This app is developed using [MIT App Inventor](https://appinventor.mit.edu/) and is designed with simplicity and usability in mind. Contributions to this project are highly encouraged to enhance its functionality and impact. The project is managed by [Bornelabs](https://www.linkedin.com/company/bornelabs/), an organization dedicated to creating impactful solutions.
 
-# MIT App Inventor Blocks Screenshot
 
-You can view the live HTML content here:
+# Download the ScreenShot Page
 
-[View MIT App Inventor Blocks](https://yourusername.github.io/your-repository/Assets/MIT%20App%20Inventor.html)
+Click the link below to download the contents of the **ScreenShot Page** folder:
+
+[Download ScreenShot Page](https://github.com/BorneLabs/KU-Students-APP/raw/main/Assets/ScreenShot%20Page.zip)
+
 
 
 ### **Technologies Used**
