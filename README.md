@@ -78,7 +78,7 @@ Alternatively, you can:
 ## **Feedback and Support**
 We’re always looking to improve! If you encounter any issues or have suggestions, feel free to [open an issue](https://github.com/BorneLabs/KU-Students-APP/issues) in the repository.
 
-You can also reach out via email at brianxborne@gmail.com for further assistance.
+You can also reach out via email at BorneLabs.org@Gmail.com for further assistance.
 
 ## **License**
 This project is licensed under the [MIT License](LICENSE), making it open and free to use, modify, and distribute.
