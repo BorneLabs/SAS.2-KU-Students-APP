@@ -55,13 +55,6 @@ To install and test the app:
 1. Download the **APK file** from the repository.
 2. Install the APK on your device.
 
-Alternatively, you can:
-1. Clone the repository:
-   ```
-   git clone https://github.com/BorneLabs/KU-Students-APP.git
-   ```
-2. Open the project in [MIT App Inventor](https://appinventor.mit.edu/).
-3. Build and deploy the app to your device.
 
 ## **Feedback and Support**
 We’re always looking to improve! If you encounter any issues or have suggestions, feel free to [open an issue](https://github.com/BorneLabs/KU-Students-APP/issues) in the repository.
