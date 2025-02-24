@@ -47,9 +47,8 @@ We welcome contributions from developers, designers, and students passionate abo
    ```
    git clone https://github.com/YourUsername/KU-Students-APP.git
    ```
-3. **Make Changes**: Modify the **.aab file** by uploading it to [MIT App Inventor](https://appinventor.mit.edu/) and making your updates.
-4. **Test Your Changes**: Ensure your changes work as intended by testing the app on a physical device or emulator.
-5. **Submit a Pull Request**: Once you’re done, submit a pull request for review.
+3. **Test Your Changes**: Ensure your changes work as intended by testing the app on a physical device or emulator.
+4. **Submit a Pull Request**: Once you’re done, submit a pull request for review.
 
 ## **Installation**
 To install and test the app:
