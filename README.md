@@ -13,21 +13,10 @@ The KU Students APP is an open-source project developed to simplify student life
 - **Offline Access**: Some features of the app can be used without an active internet connection.
 - **Push Notifications**: Stay updated with important university announcements and events.
 
-## **About the Project**
-This app is developed using [MIT App Inventor](https://appinventor.mit.edu/) and is designed with simplicity and usability in mind. Contributions to this project are highly encouraged to enhance its functionality and impact. The project is managed by [Bornelabs](https://www.linkedin.com/company/bornelabs/), an organization dedicated to creating impactful solutions.
-
-
-# Download the ScreenShot Page
-
-Click the link below to download the contents of the **ScreenShot Page** folder as a ZIP file:
-
-[Download ScreenShot Page](https://raw.githubusercontent.com/BorneLabs/KU-Students-APP/main/Assets/Screenshot-Page.zip)
-
 
 
 ### **Technologies Used**
 The KU Students APP was developed using:
-- **MIT App Inventor**: For app development and prototyping.
 - **JavaScript**: To enhance functionality within the app.
 - **HTML & CSS**: For building and designing the user interface.
 - **Firebase**: For real-time data management and authentication.
