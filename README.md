@@ -4,7 +4,7 @@
 </div>
 
 ## **Overview**
-The KU Students APP is an open-source project developed to simplify student life at Kenyatta University. This app integrates the **Portal, Kusoma Platform** and a **Discussion Forum** into one user-friendly and smooth interface, making it easier for students to access essential services and engage with their peers.
+The KU Students APP is an open-source android app project developed to simplify student life at Kenyatta University. This app integrates the **Portal, Kusoma Platform** and a **Discussion Forum** into one user-friendly and smooth interface, making it easier for students to access essential services and engage with their peers.
 
 ## **Key Features**
 - **Portal Kusoma Integration**: Seamlessly access academic and administrative services.
